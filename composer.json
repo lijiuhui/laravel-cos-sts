@@ -1,10 +1,10 @@
 {
-    "name": "buxuhunao\/laravel-cos-sts",
-    "description": "腾讯云对象存储COS STS授权临时密钥SDK for Laravel",
+    "name": "lijiuhui\/laravel-cos-sts",
+    "description": "腾讯云对象存储COS STS授权临时密钥SDK for Laravel 支持10.0",
     "license": "MIT",
     "authors": [
         {
-            "name": "小瓜皮",
+            "name": "原作者： 小瓜皮",
             "email": "buxuhunao@vip.qq.com"
         }
     ],
